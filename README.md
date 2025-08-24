@@ -1,42 +1,47 @@
-# 📊 InsightSphere 2024 – Sales & Income Dashboard  
+# 📊 Business Sales Performance Dashboard – Food & Beverage Industry  
 
-## 🥤 Project Overview  
-This Power BI dashboard analyzes **2024 sales, income, and profitability** for a mid-sized **Food & Beverage company**. The objective was to understand the past year’s performance and provide **data-driven strategies for 2025**.  
+## 📌 Project Overview  
+This project demonstrates a **Sales Performance Dashboard** developed for the **Food & Beverage sector**.  
+The goal was to help business leaders track **Revenue, Orders, Channel Contribution, Product Performance, and Sales Teams** with clear, data-driven insights.  
+The dashboard is aligned with **business analyst practices** for fast-growing markets including **Saudi, Dubai, and India**.  
 
-## 🎯 Business Problem  
-The company wanted to:  
-- Monitor **2024 revenue vs expenses**.  
-- Identify **best-selling products** and underperforming categories.  
-- Evaluate **profit margins across regions**.  
-- Use **2024 data as a baseline** to build strategies for **2025 growth**.  
+---
 
-## 🔑 Key Features of the Dashboard  
-- **Sales Overview**: Total income, expenses, and net profit in 2024.  
-- **Top Products**: Drinks & food items ranked by revenue contribution.  
-- **Regional Insights**: Sales distribution across different branches/locations.  
-- **Trend Analysis**: Monthly and seasonal performance tracking.  
-- **What-If Simulator**: Test different 2025 pricing/expense scenarios.  
+## 🎯 Key Business Insights  
+- **Revenue Growth**: Achieved **$179M** in sales from 52,560 orders with an **Average Transaction Price (ATP) of $340.74**.  
+- **Channel Analysis**: Retail, Distributor, and Online channels clearly highlight how **multi-channel strategies** impact overall performance.  
+- **Product Insights**: Key revenue drivers are **Wheat Flour, Oil, and Yeast**, showing where the company should focus marketing and supply chain resources.  
+- **Employee Performance**: Salesperson ranking identifies **top contributors**, supporting recognition and incentive planning.  
+- **Target Achievement**: Sales exceeded expectations by **103.7% vs Budget**, reflecting effective business strategy execution.  
 
-## 📈 Key Insights from 2024 Data  
-- Drinks contributed **65% of 2024 total sales**, while snacks accounted for **35%**.  
-- The **Summer season** showed peak revenue due to higher beverage demand.  
-- Reducing **operating expenses by 10%** could increase 2025 net profit by nearly **18%**.  
-- Insights from 2024 sales can be used to **forecast 2025 growth opportunities** and optimize marketing spend.  
+---
 
-## 🛠️ Tools & Skills Used  
-- **Power BI** → Data modeling, DAX, KPIs, and interactive visuals.  
-- **ETL Process** → Cleaned and transformed raw sales data.  
-- **Business Analysis** → Defined KPIs, stakeholder requirements, and actionable insights.  
+## 🛠️ Role of Business Analyst  
+- **Requirement Gathering** – Defined KPIs with stakeholders for better alignment of business goals.  
+- **Data Analysis & Interpretation** – Converted raw sales data into **business insights** for leadership.  
+- **Visualization Storytelling** – Designed an intuitive **Power BI dashboard** that simplifies complex sales trends.  
+- **Business Recommendations** – Suggested actions like **channel optimization, product prioritization, and employee performance evaluation**.  
 
-## 🚀 How to Use  
-1. Download the `.pbix` file from this repo.  
-2. Open in **Power BI Desktop**.  
-3. Explore the dashboard using filters and simulators for 2025 planning.  
+---
 
-## 📂 Project Files  
-- `InsightSphere_2024_Sales_Income_Dashboard.pbix` → Power BI dashboard file.  
-- `README.md` → Project documentation.  
+## 📈 Business Value  
+- Enables executives to **track performance vs budget in real-time**.  
+- Helps management identify **market opportunities** in high-performing product categories.  
+- Supports **decision-making for channel strategies and salesforce effectiveness**.  
+- Provides a scalable reporting solution for **growing businesses across Saudi, Dubai, and India markets**.  
 
-## 👨‍💼 About the Analyst  
-Created by **Md Ajam**, aspiring **Data & Business Analyst**.  
-🔗 [LinkedIn](https://www.linkedin.com/in/mdajam/) | 📧 mdajamansari099@gmail.com  
+---
+
+## 🛠️ Tools Used  
+- **Power BI** – Dashboard design & visualization  
+- **Excel / CSV** – Data sources  
+- **Business Analysis Skills** – KPI definition, stakeholder communication, insights generation  
+
+---
+
+## 👤 Author  
+**Md Ajam**  
+Business & Data Analyst | Sales Performance | Power BI | SQL 
+
+📩 Email: mdajamansari099@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mdajam/) | [GitHub](https://github.com/MdAjams)  
