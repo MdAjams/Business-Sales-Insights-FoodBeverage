@@ -32,6 +32,16 @@ The dashboard is aligned with **business analyst practices** for fast-growing ma
 - Provides a scalable reporting solution for **growing businesses across Saudi, Dubai, and India markets**.  
 
 ---
+## 🖼️ Dashboard Preview  
+Here’s a quick look at the **Power BI dashboard** designed for the **Food & Beverage industry in India**.  
+It highlights **Revenue, Orders, Channels, Products, and Employee Performance** with clear insights.  
+
+### 🔹 Main Dashboard View  
+![Dashboard Preview](images/Business-Sales-Insights-FoodBeverage_page-0001.jpg)
+![Dashboard Preview](images/Business-Sales-Insights-FoodBeverage_page-0002.jpg)
+![Dashboard Preview](images/Business-Sales-Insights-FoodBeverage_page-0003.jpg)
+![Dashboard Preview](images/Business-Sales-Insights-FoodBeverage_page-0004.jpg)
+
 
 ## 🛠️ Tools Used  
 - **Power BI** – Dashboard design & visualization  
