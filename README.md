@@ -1,4 +1,5 @@
 # 📊 Business Sales Performance Dashboard – Food & Beverage Industry  
+![Business Sales Insights Dashboard](images/Business-Sales-Insights-FoodBeverage_page-0001.jpg)
 
 ## 📌 Project Overview  
 This project demonstrates a **Sales Performance Dashboard** developed for the **Food & Beverage sector**.  
