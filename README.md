@@ -1,10 +1,9 @@
 # 📊 Business Sales Performance Dashboard – Food & Beverage Industry  
 ![Business Sales Insights Dashboard](images/Business-Sales-Insights-FoodBeverage_page-0001.jpg)
 
-## 📌 Project Overview  
-This project demonstrates a **Sales Performance Dashboard** developed for the **Food & Beverage sector**.  
-The goal was to help business leaders track **Revenue, Orders, Channel Contribution, Product Performance, and Sales Teams** with clear, data-driven insights.  
-The dashboard is aligned with **business analyst practices** for fast-growing markets including **Saudi, Dubai, and India**.  
+## 📌 Project Overview    
+This project is a **Sales Insights Dashboard for F&B businesses** built using Power BI.  
+It helps restaurants, cafes, and food distributors quickly understand their sales trends, identify top-selling items, and make data-driven decisions to increase revenue and optimize operations.
 
 ---
 
@@ -49,6 +48,14 @@ It highlights **Revenue, Orders, Channels, Products, and Employee Performance** 
 - **Business Analysis Skills** – KPI definition, stakeholder communication, insights generation  
 
 ---
+## How to Use
+1. Download the `.pbix` file from this repository.  
+2. Open it in Power BI Desktop.  
+3. Use the filters and slicers to explore sales by date, product, or channel.  
+4. Hover over charts for detailed insights.  
+5. Export visuals or reports as needed for presentations or management.
+
+---
 
 ## 👤 Author  
 **Md Ajam**  
@@ -56,3 +63,8 @@ Business & Data Analyst | Sales Performance | Power BI | SQL
 
 📩 Email: mdajamansari099@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mdajam/) | [GitHub](https://github.com/MdAjams)  
+
+## Contact
+For inquiries or freelance projects:  
+**Email:** mdajamansari099@gmail.com  
+**LinkedIn:** [Md Ajam](https://www.linkedin.com/in/mdajam/)
